@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Moviefreak</string>
+    <string name="watch_later">watch later</string>
+    <string name="removefromfavorites">remove from favorites</string>
+    <string name="no_trailers">No Trailers</string>
+    <string name="no_reviews">No Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews_tv">Reviews</string>
+    <string name="action">android.intent.action.VIEW</string>
+    <string name="ratings">Ratings</string>
+    <string name="releasedate">Releasedate</string>
+    <string name="overview">Overview</string>
+    <string name="moviepopular">Moviepopular</string>
+    <string name="favorites">Favorites</string>
+    <string name="toprated">Toprated</string>
+    <string name="author">Author</string>
+    <string name="for_more_details">For More Details</string>
+    <string name="movie_popular">/movie/popular</string>
+    <string name="movie_toprated">/movie/top_rated</string>
+
+
+
+   <!-- <string name="watch_later">watch later</string>
+    <string name="removefromfavorites">remove from favorites</string>
+    <string name="ratings">ratings</string>
+    <string name="favorites">favorites</string>
+    <string name="moviepopular">popular</string>
+    <string name="toprated">toprated</string>
+-->    <string name="topratedurl">/movie/top_rated</string>
+    <string name="popularurl">/movie/popular</string>
+    <!--<string name="releasedate">ReleaseDate</string>
+    <string name="overview">overview</string>-->
+    <string name="top_rated">/movie/top_rated</string>
+    <!--<string name="movie_popular">/movie/popular</string>-->
+    <string name="moviepopularstate">/movie/popular</string>
+    <string name="movie_information">movie_information</string>
+    <string name="movieid">id</string>
+    <string name="vote_average">vote_average</string>
+    <string name="Remove_fav">Remove fav</string>
+    <string name="Add_fav">Add fav</string>
+</resources>
